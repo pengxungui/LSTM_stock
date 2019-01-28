@@ -6,6 +6,7 @@ import xlwt
 import os
 import time
 
+
 fileName = 'E:/Python/tushare/data/everyday/'
 
 def merge(time,market):
