@@ -3,6 +3,7 @@ import numpy as np
 import xlrd
 import os
 
+
 ####常量设置####
 fileName = 'E:/Python/tushare/data/everyday/'
 
